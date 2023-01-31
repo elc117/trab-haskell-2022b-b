@@ -1,0 +1,28 @@
+<svg width='500.00' height='500.00' xmlns='http://www.w3.org/2000/svg'>
+<rect width='500' height='500' fill='rgba(24,25,34,255)' />
+<circle cx='20' cy='40' r='120' fill='rgba(211,28,22,255)' stroke='rgba(235,133,49,255)' stroke-width='11' />
+<circle cx='391' cy='452' r='15' fill='rgb(204,167,104,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='32' cy='118' r='20' fill='rgb(249,211,117,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='364' cy='411' r='25' fill='rgb(49,131,135,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='391' cy='180' r='12' fill='rgb(209,66,40,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='287' cy='437' r='40' fill='rgb(244,127,47,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='51' cy='421' r='40' fill='rgba(250,214,101,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='217' cy='281' r='25' fill='rgb(145,227,248,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='290' cy='161' r='25' fill='rgb(63,144,201,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<polygon points='365,394 375,394 370,389' fill='yellow' />
+<polygon points='398,30 408,30 403,25' fill='yellow' />
+<polygon points='404,38 414,38 409,33' fill='yellow' />
+<polygon points='303,316 313,316 308,311' fill='yellow' />
+<polygon points='325,431 335,431 330,426' fill='yellow' />
+<polygon points='384,406 394,406 389,401' fill='yellow' />
+<polygon points='61,291 71,291 66,286' fill='yellow' />
+<polygon points='381,146 391,146 386,141' fill='yellow' />
+<polygon points='420,56 430,56 425,51' fill='white' />
+<polygon points='253,348 263,348 258,343' fill='white' />
+<polygon points='273,340 283,340 278,335' fill='white' />
+<polygon points='245,252 255,252 250,247' fill='white' />
+<polygon points='100,234 110,234 105,229' fill='white' />
+<polygon points='270,236 280,236 275,231' fill='white' />
+<polygon points='265,21 275,21 270,16' fill='white' />
+<polygon points='441,56 451,56 446,51' fill='white' />
+</svg>
