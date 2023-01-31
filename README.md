@@ -6,7 +6,7 @@ Ana Paula Militz Dorneles
 
 asa
 
-![Imagem 2](images/output2.svg)
+![Imagem 2](images/output(1).svg)
 ### Explicação sobre como executar o programa:
 
 ### Análise comparativa dos códigos:
