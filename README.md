@@ -2,7 +2,11 @@
 Ana Paula Militz Dorneles
 
 ### Exemplos de imagens de saída: 
+![Imagem 1](images/output.svg)
 
+asa
+
+![Imagem 2](images/output2.svg)
 ### Explicação sobre como executar o programa:
 
 ### Análise comparativa dos códigos:
