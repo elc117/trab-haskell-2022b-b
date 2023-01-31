@@ -46,11 +46,11 @@ Em Haskell, para executar o programa Main.hs:
 
 **svgEnd:** retorna uma string que define o fim da imagem SVG. 
 
-**svgTriangle:** cria um triângulo utilizando a tag <polygon>, recebe coordenadas x e y e cor como argumentos e é utilizada, depois, para criar as estrelas do sistema solar.
+**svgTriangle:** cria um triângulo utilizando a tag `<polygon>`, recebe coordenadas x e y e cor como argumentos e é utilizada, depois, para criar as estrelas do sistema solar.
 
-**svgCircle:** cria um círculo, utilizando a tag <circle>, recebe coordenadas x e y, o raio do círculo, a cor do círculo, a cor da borda e a espessura da borda. Depois, é utilizada para criar o sol e os planetas. 
+**svgCircle:** cria um círculo, utilizando a tag `<circle>`, recebe coordenadas x e y, o raio do círculo, a cor do círculo, a cor da borda e a espessura da borda. Depois, é utilizada para criar o sol e os planetas. 
  
-**svgRect:** cria um retângulo utilizando a tag <rect>, recebe coordenadas x e y e uma cor de preenchimento e é utilizada como uma maneira de criar o background da imagem.
+**svgRect:** cria um retângulo utilizando a tag `<rect>`, recebe coordenadas x e y e uma cor de preenchimento e é utilizada como uma maneira de criar o background da imagem.
   
 **svgAll:** recebe coordenadas das posições dos elementos da imagem (planetas e estrelas) e uma string que representa suas cores. É utilizada para criar estes elementos da imagem e utiliza as funções svgBegin para criar a imagem e svgEnd para finalizá-la.  
   
