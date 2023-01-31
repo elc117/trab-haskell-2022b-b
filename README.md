@@ -40,17 +40,24 @@ Em Haskell, para executar o programa Main.hs:
 4. Espere o arquivo carregar e chame a função main, pelo comando "main".
 
 ### Análise comparativa dos códigos:
-#### Código em Haskell:
-1. Objetivo: este código visa criar, através de formas geométricas, uma imagem SVG que visa se assemelhar com o Sistema Solar (embora não de maneira precisa). Para tal, são criadas as seguintes funções:
+1. Objetivo: Tanto em python quanto em haskell, visa-se criar, através de formas geométricas, uma imagem SVG que busca se assemelhar com o Sistema Solar (embora não de maneira precisa). Para tal, são criadas as seguintes funções (de mesmo nome em ambos códigos):
 
 **svgBegin:** define o início da imagem SVG e suas dimensões (largura e altura). 
 
 **svgEnd:** retorna uma string que define o fim da imagem SVG. 
 
-**svgTriangle:** cria um polígono em forma de triângulo para se assemelhar às estrelas do sistema solar.
+**svgTriangle:** cria um triângulo utilizando a tag <polygon>, recebe coordenadas x e y e cor como argumentos e é utilizada, depois, para criar as estrelas do sistema solar.
 
-#### Código em Python:
-1. Objetivo:
+**svgCircle:** cria um círculo, utilizando a tag <circle>, recebe coordenadas x e y, o raio do círculo, a cor do círculo, a cor da borda e a espessura da borda. Depois, é utilizada para criar o sol e os planetas. 
+ 
+**svgRect:** cria um retângulo utilizando a tag <rect>, recebe coordenadas x e y e uma cor de preenchimento e é utilizada como uma maneira de criar o background da imagem.
+  
+**svgAll:** recebe coordenadas das posições dos elementos da imagem (planetas e estrelas) e uma string que representa suas cores. É utilizada para criar estes elementos da imagem e utiliza as funções svgBegin para criar a imagem e svgEnd para finalizá-la.  
+  
+**getRandomCoords:** utiliza a função randomRIO da biblioteca System.Random para gerar coordenadas aleatórias entre 0 e 500 a serem utilizadas como parâmetros nas funções svgCircle e svgTriangle (e fazer os planetas e estrelas serem posicionados em locais diferentes da imagem quando o código é executado).
+  
+**main:** é utilizada para definir as coordenadas aleatórias dos planetas e estrelas do código, chamar a função svgAll para que estes planetas e estrelas sejam criados e escrever o resultado em um arquivo .svg chamado "output".
+  
 
 
 ### Créditos para sites/pessoas que ajudaram:
