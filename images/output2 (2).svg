@@ -1,0 +1,28 @@
+<svg width='500.00' height='500.00' xmlns='http://www.w3.org/2000/svg'>
+<rect width='500' height='500' fill='rgba(24,25,34,255)' />
+<circle cx='20' cy='40' r='120' fill='rgba(211,28,22,255)' stroke='rgba(235,133,49,255)' stroke-width='11' />
+<circle cx='269' cy='477' r='15' fill='rgb(204,167,104,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='46' cy='234' r='20' fill='rgb(249,211,117,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='99' cy='449' r='25' fill='rgb(49,131,135,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='197' cy='249' r='12' fill='rgb(209,66,40,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='455' cy='138' r='40' fill='rgb(244,127,47,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='452' cy='224' r='40' fill='rgba(250,214,101,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='450' cy='110' r='25' fill='rgb(145,227,248,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<circle cx='412' cy='127' r='25' fill='rgb(63,144,201,255)' stroke='rgba(251,241,231,255)' stroke-width='4' />
+<polygon points='376,343 386,343 381,338' fill='yellow' />
+<polygon points='376,288 386,288 381,283' fill='yellow' />
+<polygon points='318,272 328,272 323,267' fill='yellow' />
+<polygon points='95,477 105,477 100,472' fill='yellow' />
+<polygon points='350,47 360,47 355,42' fill='yellow' />
+<polygon points='63,416 73,416 68,411' fill='yellow' />
+<polygon points='481,32 491,32 486,27' fill='yellow' />
+<polygon points='371,211 381,211 376,206' fill='yellow' />
+<polygon points='314,234 324,234 319,229' fill='white' />
+<polygon points='168,413 178,413 173,408' fill='white' />
+<polygon points='89,24 99,24 94,19' fill='white' />
+<polygon points='301,83 311,83 306,78' fill='white' />
+<polygon points='489,38 499,38 494,33' fill='white' />
+<polygon points='3,499 13,499 8,494' fill='white' />
+<polygon points='371,221 381,221 376,216' fill='white' />
+<polygon points='141,391 151,391 146,386' fill='white' />
+</svg>
