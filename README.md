@@ -62,7 +62,7 @@ Em Haskell, para executar o programa Main.hs:
 
 **3. Tecnologias e bibliotecas:** Um dos códigos é escrito na linguagem Python e importa o módulo random para gerar coordenadas de números inteiros aleatórios. O outro é escrito em Haskell e utiliza a biblioteca Text.Printf para formatar e imprimir strings e a biblioteca System.Random para gerar coordenadas de números inteiros aleatórios, assim como no código em Python. Ambos utilizam a linguagem de marcação SVG para gerar gráficos vetoriais. Então, foi necessário utilizar 2 bibliotecas em Haskell, em comparação com um módulo em Python. Além disso, o uso da biblioteca System.Random em Haskell precisa de alguns passos adicionais no website Replit para que possa ser utilizado, em comparação com o módulo random de Python, que pode só ser importado com uma linha "import random".
 
-**4. Semelhanças: As principais semelhanças são que ambos os códigos estão estruturados da mesma maneira, possuem uma mesma quantidade de funções, cujas quais estão nomeadas da mesma forma e são declaradas numa mesma sequência no código. As funções em ambos os códigos cumprem as mesmas funcionalidades e ambos os códigos têm uma mesma finalidade geral.  
+**4. Semelhanças:** As principais semelhanças são que ambos os códigos estão estruturados da mesma maneira, possuem uma mesma quantidade de funções, cujas quais estão nomeadas da mesma forma e são declaradas numa mesma sequência no código. As funções em ambos os códigos cumprem as mesmas funcionalidades e ambos os códigos têm uma mesma finalidade geral.  
 
 **5. Diferenças gerais:** No geral, as principais diferenças entre os códigos foram:
 
@@ -83,6 +83,10 @@ https://www.w3schools.com/graphics/svg_circle.asp
 https://www.w3schools.com/graphics/svg_polygon.asp
 
 https://www.portugal-a-programar.pt/forums/topic/66599-função-randomrio-de-systemrandom/
+
+https://www.w3schools.com/python/ref_random_randint.asp
+
+https://www.geeksforgeeks.org/python-randint-function/
 
 https://www.softwarefactory-project.io/haskell-for-python-developers.html
 
