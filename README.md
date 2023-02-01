@@ -62,7 +62,9 @@ Em Haskell, para executar o programa Main.hs:
 
 **3. Tecnologias e bibliotecas:** Um dos códigos é escrito na linguagem Python e importa o módulo random para gerar coordenadas de números inteiros aleatórios. O outro é escrito em Haskell e utiliza a biblioteca Text.Printf para formatar e imprimir strings e a biblioteca System.Random para gerar coordenadas de números inteiros aleatórios, assim como no código em Python. Ambos utilizam a linguagem de marcação SVG para gerar gráficos vetoriais. Então, foi necessário utilizar 2 bibliotecas em Haskell, em comparação com um módulo em Python. Além disso, o uso da biblioteca System.Random em Haskell precisa de alguns passos adicionais no website Replit para que possa ser utilizado, em comparação com o módulo random de Python, que pode só ser importado com uma linha "import random".
 
-**4. Diferenças gerais:** No geral, as principais diferenças entre os códigos foram:
+**4. Semelhanças: As principais semelhanças são que ambos os códigos estão estruturados da mesma maneira, possuem uma mesma quantidade de funções, cujas quais estão nomeadas da mesma forma e são declaradas numa mesma sequência no código. As funções em ambos os códigos cumprem as mesmas funcionalidades e ambos os códigos têm uma mesma finalidade geral.  
+
+**5. Diferenças gerais:** No geral, as principais diferenças entre os códigos foram:
 
 - Os tipos: todas as funções do código na sua versão em Haskell tiveram assinaturas de tipo, enquanto em Python, não.
 - A sintaxe: como consequência da forte tipagem de Haskell, a declaração de funções acaba sendo diferente de uma linguagem pra outra. Em Haskell, a função inclui o nome da função, os tipos de entrada e de saída. Em Python, inclui só o nome da função e seus argumentos. Para atribuir valor, também foi utilizado o símbolo "=" em todas as funções do código em Haskell, em comparação com a palavra return, em Python. Além disso, foi utilizado o operador ++ para concatenar as strings de formato SVG retornadas pelas funções svgBegin, svgRect, svgCircle, etc. Já, em Python, foi utilizado o operador +. Dentre outras diferenças.
